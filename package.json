@@ -1,0 +1,19 @@
+{
+  "name": "anjali-kava-portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portfolio of Kava Anjali Shakti — Full Stack Developer & UI/UX Enthusiast",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "full-stack",
+    "javascript",
+    "php",
+    "mysql",
+    "ui-ux",
+    "canvas-tracking"
+  ],
+  "author": "Kava Anjali Shakti",
+  "license": "MIT"
+}
