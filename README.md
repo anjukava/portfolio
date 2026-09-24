@@ -1,6 +1,6 @@
 # Anjali Kava — Full Stack Developer & UI/UX Portfolio
 
-> **Live Portfolio:** [https://anjali-kava.surge.s](https://github.com/anjukava) *(or your deployed Vercel URL)*  
+> **Live Portfolio:** [https://anjali-kava.surge.sh](https://github.com/anjukava) *(or your deployed Vercel URL)*  
 > **Featured Project:** [Memories Studio | Photobooth (Live on Vercel)](https://photo-memories-ac6t.vercel.app/)
 
 Welcome to the official personal portfolio website of **Kava Anjali Shakti (Anjali Kava)** — Full Stack Web Developer & UI/UX enthusiast skilled in JavaScript, PHP, MySQL, and responsive design.
